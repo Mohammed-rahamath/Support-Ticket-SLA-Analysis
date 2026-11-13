@@ -1,0 +1,6 @@
+department,total_tickets,breached_tickets,avg_resolution_hrs,breach_pct
+Help Desk,578,325,21.16,56.23
+SysAdmin,675,355,20.99,52.59
+Network Team,815,435,20.96,53.37
+Security,625,329,20.29,52.64
+Desktop Support,802,410,19.88,51.12

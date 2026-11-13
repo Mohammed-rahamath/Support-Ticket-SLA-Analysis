@@ -1,0 +1,6 @@
+category_name,sla_target_hours,total_tickets,breached_tickets,breach_pct,avg_resolution_hrs
+Software Installation,8,656,361,55.03,8.62
+Access Rights & Permissions,48,718,387,53.9,51.1
+Hardware Repair,24,720,380,52.78,25.0
+Email & Collaboration,12,715,376,52.59,12.41
+Network Connectivity,4,686,350,51.02,4.22

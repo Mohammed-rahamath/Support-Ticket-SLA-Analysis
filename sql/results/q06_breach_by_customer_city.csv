@@ -1,0 +1,11 @@
+city,state,total_tickets,breached_tickets,breach_pct
+Hyderabad,Telangana,489,251,51.33
+Ahmedabad,Gujarat,459,257,55.99
+Mumbai,Maharashtra,455,247,54.29
+Bangalore,Karnataka,413,217,52.54
+Chennai,Tamil Nadu,388,207,53.35
+Pune,Maharashtra,388,213,54.9
+Delhi,Delhi,382,205,53.66
+Kolkata,West Bengal,373,188,50.4
+Bangalore,Telangana,35,19,54.29
+Bangalore,Maharashtra,28,14,50.0

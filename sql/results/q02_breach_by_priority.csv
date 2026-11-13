@@ -1,0 +1,5 @@
+priority,total_tickets,breached_tickets,breach_pct,avg_resolution_hrs
+Critical,517,285,55.13,21.83
+High,1072,590,55.04,20.51
+Medium,1243,644,51.81,20.77
+Low,663,335,50.53,19.64
