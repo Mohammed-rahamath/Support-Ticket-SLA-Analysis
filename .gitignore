@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data - don't push large raw files
+# data/raw/ (included intentionally for this project)
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Power BI temp files
+*.pbix.lock
+
+# Logs
+*.log

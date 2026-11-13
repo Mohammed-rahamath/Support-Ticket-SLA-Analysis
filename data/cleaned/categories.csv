@@ -1,0 +1,6 @@
+category_id,category_name,sla_target_hours,priority_level
+1,Network Connectivity,4,Critical
+2,Software Installation,8,High
+3,Hardware Repair,24,Medium
+4,Access Rights & Permissions,48,Low
+5,Email & Collaboration,12,High
